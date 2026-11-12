@@ -1,0 +1,7 @@
+PySide6
+pyvista
+pyvistaqt
+trimesh[easy]
+manifold3d
+shapely
+numpy
