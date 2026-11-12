@@ -68,7 +68,7 @@ All sizes are adjustable: pin diameter, pin length, hole clearance, extra hole d
 Requires **Python 3.10 or newer**.
 
 ```bash
-git clone https://github.com/<your-name>/stl-splitter.git
+git clone https://github.com/alexander-a-kladov/stl-splitter.git
 cd stl-splitter
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
