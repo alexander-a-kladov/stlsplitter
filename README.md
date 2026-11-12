@@ -1,4 +1,4 @@
-# STL Splitter
+# STL Splitter @ Made by Claude AI
 
 **Turn any STL figure into a multi-colour, snap-together construction kit.**
 
